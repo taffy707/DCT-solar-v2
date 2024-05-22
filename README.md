@@ -1,1 +1,1 @@
-# DCT-solar-v2
+# Solar system prototype
